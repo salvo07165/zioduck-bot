@@ -4,7 +4,9 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 from web3 import Web3
 from eth_account import Account
 
-BOT_TOKEN = "8856869773:AAFx1-YjmgKSjk6lT3vukVnHvA_xAag_-PM"
+BOT_TOKEN = Here is the token for bot La vetrina @zioduck_bot:
+
+8856869773:AAFx1-YjmgKSjk6lT3vukVnHvA_xAag_-PM
 PRIVATE_KEY = 0xe4035f39b32f649b8404e0ef883185466456c6087717b7993fe3a894d3fbc0c6 
 ENS_DOMAIN = "zioduck.eth"
 RPC_URL = "https://eth.llamarpc.com"
