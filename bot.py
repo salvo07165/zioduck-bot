@@ -65,4 +65,4 @@ def main():
     print("Bot online")
     app.run_polling()
 
-if name == 'main': main()
+if __name__ == 'main': main()
