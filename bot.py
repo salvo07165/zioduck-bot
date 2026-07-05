@@ -48,5 +48,5 @@ def main():
     app.add_handler(CommandHandler("pubblica", pubblica))
     app.run_polling()
 
-if name == "main":
+if __name__ == "main":
     main()
