@@ -2,7 +2,7 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = os.environ["BOT_TOKEN"]
+BOT_TOKEN = "8856869773:AAEQpWk9QpMpuRSMKVHKHsPt1hYJZZpX3Gw"
 ENS_DOMAIN = "zioduck.eth"
 products = []
 
